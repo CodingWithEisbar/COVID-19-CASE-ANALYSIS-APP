@@ -1,1 +1,3 @@
-{'username': 'nguyen_42', 'password': '123'}
+{'username': 'demo_01', 'password': '123'}
+{'username': 'demo_02', 'password': '123'}
+{'username': 'demo_03', 'password': '123'}
